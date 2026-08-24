@@ -62,6 +62,7 @@ I'm a passionate **Full-Stack Developer** focused on building modern, scalable, 
 
 | Project | Highlights | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
+| **🛍️ Ecommerce Website** | Modern e-commerce web platform showcasing dynamic product layouts and interactive UI elements. | `HTML5` `CSS3` `JavaScript` | [📦 Repo](https://github.com/M-Taimoor-Mansha/Ecommerce-website-project) |
 | **🎬 Netflix Clone** | Streaming platform interface showcasing responsive media grid, navbar, and content cards. | `HTML5` `CSS3` `JavaScript` | [📦 Repo](https://github.com/M-Taimoor-Mansha/Netflix-Clone-Project) |
 | **🎵 Spotify Clone** | Music web player UI recreating a modern desktop streaming aesthetic and layouts. | `HTML5` `CSS3` `JavaScript` | [📦 Repo](https://github.com/M-Taimoor-Mansha/Spotify-Clone-Project) |
 | **🛒 Amazon Clone** | E-commerce interface built to practice multi-section layouts, product grids, and navigation. | `HTML5` `CSS3` `JavaScript` | [📦 Repo](https://github.com/M-Taimoor-Mansha/Amazon-Clone-Project) |
@@ -77,6 +78,7 @@ I'm a passionate **Full-Stack Developer** focused on building modern, scalable, 
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **📰 News Website Landing Page** | Clean digital news and magazine landing page featuring modern editorial layouts. | `HTML5` `CSS3` `JS` | [📦 View Repo](https://github.com/M-Taimoor-Mansha/News-Website-Landing-Page) |
 | **🔐 Password Generator** | DOM manipulation app for customizable random password generation. | `HTML5` `CSS3` `JS` | [📦 View Repo](https://github.com/M-Taimoor-Mansha/password-generator-app) |
 | **🍅 Pomodoro Timer** | Productivity timer demonstrating state logic and dynamic JavaScript time handlers. | `HTML5` `CSS3` `JS` | [📦 View Repo](https://github.com/M-Taimoor-Mansha/build-a-pomodoro-timer) |
 | **🎉 Celestial Gala 2025** | Event landing page focused on immersive visuals and clean section layout. | `HTML5` `CSS3` `JS` | [📦 View Repo](https://github.com/M-Taimoor-Mansha/celestial-gala-2025) |
