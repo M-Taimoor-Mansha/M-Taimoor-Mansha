@@ -78,6 +78,7 @@ I'm a passionate **Full-Stack Developer** focused on building modern, scalable, 
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **📸 Instagram Login Clone** | Pixel-perfect responsive UI replica of Instagram login interface with form interactivity. | `HTML5` `CSS3` `JS` | [📦 View Repo](https://github.com/M-Taimoor-Mansha/instagram-login-clone) |
 | **📰 News Website Landing Page** | Clean digital news and magazine landing page featuring modern editorial layouts. | `HTML5` `CSS3` `JS` | [📦 View Repo](https://github.com/M-Taimoor-Mansha/News-Website-Landing-Page) |
 | **🔐 Password Generator** | DOM manipulation app for customizable random password generation. | `HTML5` `CSS3` `JS` | [📦 View Repo](https://github.com/M-Taimoor-Mansha/password-generator-app) |
 | **🍅 Pomodoro Timer** | Productivity timer demonstrating state logic and dynamic JavaScript time handlers. | `HTML5` `CSS3` `JS` | [📦 View Repo](https://github.com/M-Taimoor-Mansha/build-a-pomodoro-timer) |
